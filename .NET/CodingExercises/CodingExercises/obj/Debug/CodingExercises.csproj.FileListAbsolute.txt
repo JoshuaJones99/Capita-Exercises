@@ -1,0 +1,8 @@
+D:\.NET\CodingExercises\CodingExercises\bin\Debug\CodingExercises.exe.config
+D:\.NET\CodingExercises\CodingExercises\bin\Debug\CodingExercises.exe
+D:\.NET\CodingExercises\CodingExercises\bin\Debug\CodingExercises.pdb
+D:\.NET\CodingExercises\CodingExercises\obj\Debug\CodingExercises.csproj.AssemblyReference.cache
+D:\.NET\CodingExercises\CodingExercises\obj\Debug\CodingExercises.csproj.SuggestedBindingRedirects.cache
+D:\.NET\CodingExercises\CodingExercises\obj\Debug\CodingExercises.csproj.CoreCompileInputs.cache
+D:\.NET\CodingExercises\CodingExercises\obj\Debug\CodingExercises.exe
+D:\.NET\CodingExercises\CodingExercises\obj\Debug\CodingExercises.pdb
