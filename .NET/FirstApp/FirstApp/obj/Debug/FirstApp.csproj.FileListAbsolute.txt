@@ -1,8 +1,0 @@
-D:\.NET\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
-D:\.NET\FirstApp\FirstApp\bin\Debug\FirstApp.exe
-D:\.NET\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
-D:\.NET\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
-D:\.NET\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
-D:\.NET\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
-D:\.NET\FirstApp\FirstApp\obj\Debug\FirstApp.exe
-D:\.NET\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
