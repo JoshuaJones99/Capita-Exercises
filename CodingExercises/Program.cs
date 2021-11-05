@@ -12,32 +12,45 @@ namespace CodingExercises
         {
 
             //Problem 1
+            Console.WriteLine("Problem 1 Solution - Longest Sequence:");
             int x = LongestSequence(new int[] {1, 2, 1, 1, 0, 3, 1, 0, 0, 2, 4, 1, 0, 0, 0, 0, 2, 1, 0, 3, 1, 0, 0, 0, 6, 1, 3, 0, 0, 0});
-            Console.WriteLine(x);
+            Console.WriteLine("Longest sequence of zeroes is " + x);
             //Problem 2
+            Console.WriteLine("Problem 2 Solution - Anagrams of 'star':");
             List<string> anagram = Anagrams("parts,traps,arts,rats,starts,tarts,rat,art,tar,tars,stars,stray");
-            anagram.ForEach(i => Console.WriteLine(i));
+            anagram.ForEach(i => Console.WriteLine("Anagram of star: " + i));
             //Problem 3
+            Console.WriteLine("Problem 3 Solution - Stars:");
             Stars();
             //Problem 4
+            Console.WriteLine("Problem 4 Solution - Diamond:");
             StarsDiamond();
             //Problem 5
+            Console.WriteLine("Problem 5 Solution - String Reversal:");
             StringReversal("Hello World");
             //Problem 6
+            Console.WriteLine("Problem 6 Solution - Palindrome Function:");
+            Console.WriteLine("Is 'madam' a palindrome?");
             Palindrome("madam");
+            Console.WriteLine("Is 'step on no pets' a palindrome?");
             Palindrome("step on no pets");
+            Console.WriteLine("Is 'book' a palindrome?");
             Palindrome("book");
             //Problem 7
-            Console.WriteLine(SumOfDigits("123"));
+            Console.WriteLine("Problem 7 Solution - Sum of digits:");
+            Console.WriteLine("Sum of digits 123 is " + SumOfDigits("123"));
             //Problem 8
+            Console.WriteLine("Problem 8 Solution - Two Sums:");
             Tuple<int,int> prob8 = TwoSums(new List<int>() { 3, 1, 5, 7, 5, 9 }, 10);
             Console.WriteLine(prob8);
             //Problem 9
+            Console.WriteLine("Problem 9 Solution - Prime checker:");
             int prob9 = Prime(5);
-            Console.WriteLine("5rd Prime is {0}", prob9);
+            Console.WriteLine("5th Prime is {0}", prob9);
             //Problem 10
+            Console.WriteLine("Problem 10 Solution - Next Prime:");
             int prob10 = NextPrime(15);
-            Console.WriteLine(prob10);
+            Console.WriteLine("Next prime after 15 is " + prob10);
 
             Console.ReadLine();
         }
